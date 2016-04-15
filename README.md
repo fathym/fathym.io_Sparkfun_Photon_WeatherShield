@@ -2,7 +2,7 @@
 
 Download the [fathym.io.photon-0.0.1-weathershield library folder](https://github.com/fathym/fathym.io_ParticleDev/blob/master/fathym.io.photon-0.0.1.zip) to get your Sparkfun Photon Weather Shield up and running in Fathym.
 ## About 
-[![Fathym logo](http://community.fathym.com/Files/Storage/ef3e1f7f-3303-4296-9660-044c33e60cbd "Fathym Logo"](http://fathym.com) [![Particle logo](http://blog.particle.io/images/particle-horizontal-dark.png "Particle logo")](http://particle.io)
+[![Fathym logo](http://community.fathym.com/?partId=ef3e1f7f-3303-4296-9660-044c33e60cbd "Fathym Logo")](http://fathym.com) [![Particle logo](http://blog.particle.io/images/particle-horizontal-dark.png "Particle logo")](http://particle.io)
 [![Sparkfun logo](https://www.sparkfun.com/marcomm/SF-Logo-2C-PC-%C2%AE.jpg "Sparkfun logo")](https://www.sparkfun.com/)
 
 
