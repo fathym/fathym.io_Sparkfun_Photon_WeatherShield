@@ -2,8 +2,8 @@
 
 Download the [fathym.io.photon-0.0.1-weathershield library folder](https://github.com/fathym/fathym.io_ParticleDev/blob/master/fathym.io.photon-0.0.1.zip) to get your Sparkfun Photon Weather Shield up and running in Fathym.
 ## About 
-[![Fathym logo](http://community.fathym.com/Files/Storage/ef3e1f7f-3303-4296-9660-044c33e60cbd "Fathym Logo")](http://fathym.com) [![Particle logo](http://blog.particle.io/images/particle-horizontal-dark.png "Particle logo")](http://particle.io)
-[![Sparkfun logo](http://community.fathym.com/?partId=835e0c92-9d58-4c17-aca4-2b6b2db50631 "Sparkfun logo")](https://www.sparkfun.com/)
+[![Fathym logo](http://community.fathym.com/Files/Storage/ef3e1f7f-3303-4296-9660-044c33e60cbd "Fathym Logo"](http://fathym.com) [![Particle logo](http://blog.particle.io/images/particle-horizontal-dark.png "Particle logo")](http://particle.io)
+[![Sparkfun logo](https://www.sparkfun.com/marcomm/SF-Logo-2C-PC-%C2%AE.jpg "Sparkfun logo")](https://www.sparkfun.com/)
 
 
 [Fathym](http://fathym.com) is a platform that let's you create powerful, social, front-end apps and dashboards for your IoT projects. With the fathym.io.photon-0.0.1-weathershield library, it's super easy to create a data dashboard and data-triggered notifications for your new weather station. 
@@ -12,7 +12,10 @@ Download the [fathym.io.photon-0.0.1-weathershield library folder](https://githu
 
 ## Getting up and running
 
-1. **Download the [fathym.io.photon-0.0.1-weathershield](https://github.com/fathym/fathym.io_Sparkfun_Photon_WeatherShield/blob/master/fathym.io.photon-0.0.1-weathershield.zip) zip folder from this repo and unzip**
+1. **Wire up your hardware**
+  - Adding the [Sparkfun Photon Weather Shield](https://www.sparkfun.com/products/13630) is as simple as aligning the pins and securing your Photon to the Weather Shield ![Sparkfun Photon Weather Shield](http://community.fathym.com/Files/Storage/11f58daf-0073-4fe9-af9a-62ec43adf2ae "Sparkfun Photon Weather Shield")
+  - If you want, add a [Soil Moisture Sensor](https://www.sparkfun.com/products/13322) ![Soil Moisture Sensor](http://community.fathym.com/Files/Storage/571b7548-e980-45c1-8586-9332a8ca5d7a "Sparkfun Photon Weather Shield")
+2. **Download the [fathym.io.photon-0.0.1-weathershield](https://github.com/fathym/fathym.io_Sparkfun_Photon_WeatherShield/blob/master/fathym.io.photon-0.0.1-weathershield.zip) zip folder from this repo and unzip**
 2. **Open the Particle Dev Desktop app and add the fathym.io.photon-0.0.1-weathershield folder**
 ![Particle Dev](https://40.media.tumblr.com/85a6b84ac6a20005769c38cf79ea9c55/tumblr_o58dv5IR7S1qcz8h1o1_1280.jpg "Particle Dev")
   - Download the [Particle Dev Environment](https://www.particle.io/dev) if you haven't already
@@ -38,6 +41,7 @@ Download the [fathym.io.photon-0.0.1-weathershield library folder](https://githu
 1. **Inside Particle Dev, open the fathym.io-photon.ino file**
 ![ino](https://40.media.tumblr.com/31879b26805e0ddac21e0a97e9fbe36e/tumblr_o58dv5IR7S1qcz8h1o4_1280.jpg "ino")
   - You'll see commented instructions about how and where to add code for your sensors
+  - If you've added a [Soil Moisture Sensor](https://www.sparkfun.com/products/13322) to your weather station, be sure to uncomment the associated code
   - Note that fathym.set("attribute name", value, "units of measurement") formats the JSON to send to Fathym
 2. **Open the Fathym.Build.h file**         
 ![build.h](https://40.media.tumblr.com/7ec2caa15654a3f089cb182301aefcbd/tumblr_o58dv5IR7S1qcz8h1o5_1280.jpg "build.h")
