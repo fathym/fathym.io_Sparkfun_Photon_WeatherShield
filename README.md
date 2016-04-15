@@ -2,7 +2,9 @@
 
 Download the [fathym.io.photon-0.0.1-weathershield library folder](https://github.com/fathym/fathym.io_ParticleDev/blob/master/fathym.io.photon-0.0.1.zip) to get your Sparkfun Photon Weather Shield up and running in Fathym.
 ## About 
-[![Fathym logo](http://fathym.com/wp-content/uploads/2015/11/Fathym-Logo_Registered_sm-01-e1447723628628.png "Fathym Logo")](http://fathym.com) [![Particle logo](http://blog.particle.io/images/particle-horizontal-dark.png "Particle logo")](http://particle.io)
+[![Fathym logo](http://community.fathym.com/Files/Storage/ef3e1f7f-3303-4296-9660-044c33e60cbd "Fathym Logo")](http://fathym.com) [![Particle logo](http://blog.particle.io/images/particle-horizontal-dark.png "Particle logo")](http://particle.io)
+[![Sparkfun logo](http://community.fathym.com/?partId=835e0c92-9d58-4c17-aca4-2b6b2db50631 "Sparkfun logo")](https://www.sparkfun.com/)
+
 
 [Fathym](http://fathym.com) is a platform that let's you create powerful, social, front-end apps and dashboards for your IoT projects. With the fathym.io.photon-0.0.1-weathershield library, it's super easy to create a data dashboard and data-triggered notifications for your new weather station. 
 
@@ -10,8 +12,8 @@ Download the [fathym.io.photon-0.0.1-weathershield library folder](https://githu
 
 ## Getting up and running
 
-1. **Download the [fathym.io](https://github.com/fathym/fathym.io_ParticleDev/blob/master/fathym.io.photon-0.0.1.zip) zip folder from this repo and unzip**
-2. **Open the Particle Dev Desktop app and add the Fathym.io folder**
+1. **Download the [fathym.io.photon-0.0.1-weathershield](https://github.com/fathym/fathym.io_Sparkfun_Photon_WeatherShield/blob/master/fathym.io.photon-0.0.1-weathershield.zip) zip folder from this repo and unzip**
+2. **Open the Particle Dev Desktop app and add the fathym.io.photon-0.0.1-weathershield folder**
 ![Particle Dev](https://40.media.tumblr.com/85a6b84ac6a20005769c38cf79ea9c55/tumblr_o58dv5IR7S1qcz8h1o1_1280.jpg "Particle Dev")
   - Download the [Particle Dev Environment](https://www.particle.io/dev) if you haven't already
   - Inside Particle Dev: File -> Add Project Folder -> Find the fathym.io folder
