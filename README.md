@@ -6,7 +6,7 @@ Download the [fathym.io.photon-0.0.1-weathershield library folder](https://githu
 [![Sparkfun logo](https://www.sparkfun.com/marcomm/SF-Logo-2C-PC-%C2%AE.jpg "Sparkfun logo")](https://www.sparkfun.com/)
 
 
-[Fathym](http://fathym.com) is a platform that let's you create powerful, social, front-end apps and dashboards for your IoT projects. With the fathym.io.photon-0.0.1-weathershield library, it's super easy to create a data dashboard and data-triggered notifications for your new weather station. 
+[Fathym](http://fathym.com) is a platform that gives you collaborative, front-end apps, dashboards and notifications for your Particle Photon. Get up and running in the cloud, and even control your photon from your very own Fathym app in minutes. 
 
 # Tutorial
 
