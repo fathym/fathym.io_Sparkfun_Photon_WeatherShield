@@ -82,7 +82,7 @@ Download the [fathym.io.photon-0.0.1-weathershield library folder](https://githu
 
 1. From inside your Fathym Home Space, find and enter the "Community Space" (tree icon) 
 2. Inside the Community Space,  click the plus "+" button to get to the catalog of addable parts
-3. Change the selected tab in the upper right from "Create New" to "Add Exisiting
+3. Change the selected tab in the upper right from "Create New" to "Add Existing
 4. Search the "Existing Catalog" for your Particle Photon Device and Add!
 
 
