@@ -47,6 +47,7 @@ Download the [fathym.io.photon-0.0.1-weathershield library folder](https://githu
 ![build.h](https://40.media.tumblr.com/7ec2caa15654a3f089cb182301aefcbd/tumblr_o58dv5IR7S1qcz8h1o5_1280.jpg "build.h")
   - Edit the attributes that are automatically sent along with your payload by setting each item to true or false 
   - Note that the Fathym.io library includes support Photon battery power - enable battery support by uncommenting the code at the bottom of the FathymBuild.h file
+  - If you've added a [Battery](https://www.sparkfun.com/products/8483) and [Battery Shield](https://www.sparkfun.com/products/13626), be sure to uncomment the associated code in the FathymBuild.h file
 3. **Add additional dashboard visualizations for your device in Fathym**
 ![Fathym Dashboard](https://36.media.tumblr.com/447b4d8abf0869768b89b0411e377eae/tumblr_o2crfxZXFf1qcz8h1o2_1280.jpg "Fathym Dashboard")
   - From inside your Particle Photon part, click the plus "+" button to get to the catalog of addable parts
@@ -71,7 +72,7 @@ Download the [fathym.io.photon-0.0.1-weathershield library folder](https://githu
 ![Permissions](http://community.fathym.com/Files/Storage/06927353-54ad-4ecc-b29a-99cbc1f837da "Permissions")
 1. From inside your Particle Photon part, click the edit button (pencil icon)
 2. Open the "Permissions" tab
-3. Here you can select which useres have read, write, delete, contributor, moderator, or full control access
+3. Here you can select which users have read, write, delete, contributor, moderator, or full control access
   - Full control allows the user to enter the parts configure settings in addition to everything else
   - You can only give permission to existing Fathym users
   - Type "Everyone" to give the entire Fathym userbase a certain permission
