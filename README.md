@@ -1,6 +1,6 @@
 # fathym.io_Sparkfun_Photon_WeatherShield
 
-Download the [fathym.io.photon-0.0.1-weathershield library folder](https://github.com/fathym/fathym.io_ParticleDev/blob/master/fathym.io.photon-0.0.1.zip) to get your Sparkfun Photon Weather Shield up and running in Fathym.
+Download the [fathym.io.photon-0.0.1-weathershield library folder](https://github.com/fathym/fathym.io_Sparkfun_Photon_WeatherShield/blob/master/fathym.io.photon-0.0.1-weathershield.zip) to get your Sparkfun Photon Weather Shield up and running in Fathym.
 ## About 
 [![Fathym logo](http://community.fathym.com/Files/Storage/ef3e1f7f-3303-4296-9660-044c33e60cbd "Fathym Logo")](http://fathym.com) [![Particle logo](http://blog.particle.io/images/particle-horizontal-dark.png "Particle logo")](http://particle.io)
 [![Sparkfun logo](https://www.sparkfun.com/marcomm/SF-Logo-2C-PC-%C2%AE.jpg "Sparkfun logo")](https://www.sparkfun.com/)
@@ -26,7 +26,7 @@ Download the [fathym.io.photon-0.0.1-weathershield library folder](https://githu
   - The .ino should get random test data flowing to Fathym exactly as is, so we'll test everything before messing with the code
 6. **Create a new Photon Part in your Fathym Home Space**
   ![Fathym Home](https://41.media.tumblr.com/101c284e6b4c640957cbaa86e444fe32/tumblr_o58dv5IR7S1qcz8h1o2_1280.jpg "Fathym Home")
-  - Create an  account at [community.fathym.com](http.//community.fathym.com) if you haven't already
+  - Create an  account at [community.fathym.com](http://community.fathym.com) if you haven't already
   - From your Home Space, click the plus "+" button to get to the catalog of addable parts
   - Choose the Particle Photon part
   - Add your Photon deviceID, which you can find on your [Particle Dashboard](https://dashboard.particle.io/user/devices)
@@ -85,5 +85,17 @@ Download the [fathym.io.photon-0.0.1-weathershield library folder](https://githu
 3. Change the selected tab in the upper right from "Create New" to "Add Existing
 4. Search the "Existing Catalog" for your Particle Photon Device and Add!
 
-
+## Additional Internet of Things Projects
+  
+**1. Photon Plant Monitor**
+  - Monitor your plants' health with a [Soil Moisture Sensor](https://www.sparkfun.com/products/13322) and a [Temperature and Humidity Sensor](https://www.sparkfun.com/products/10167?gclid=CLqS-YDTkcwCFQiqaQodCMsK2Q).
+  Visit the [fathym.io_Photon_Plant_Monitor Repository](https://github.com/fathym/fathym.io_Photon_Plant_Monitor) for more info.
+  
+**2. Photon Door Sensor**
+  - Monitor whether your door is opened or closed and get notifications of any changes using a [Magnetic Door Switch Sensor](https://www.sparkfun.com/products/13247).
+  Visit the [fathym.io_Photon_DoorSensor Repository](https://github.com/fathym/fathym.io_Photon_DoorSensor) for more info.
+  
+**3. Photon Battery Power**
+  - Power your Photon with a [Lithium Ion Battery](https://www.sparkfun.com/products/8483) using the [SparkFun Battery Shield](https://www.sparkfun.com/products/13626). Monitor the battery voltage and charge via Fathym.
+  [fathym.io_Photon_BatteryShield Repository](https://github.com/fathym/fathym.io_Particle_BatteryShield)
   
